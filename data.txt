@@ -1,0 +1,46 @@
+{'name': '周梦泽', 'studentId': '201912340022', 'schoolYear': '2022', 'schoolTerm': '1', 
+'normalCourse': [{'courseTitle': '形势与政策', 'teacher': '黎文婷', 'courseId': '80291051', 
+                'courseSection': '10-11节', 'courseWeek': '6周', 'campus': '本部', 'courseRoom': '未排地点', 
+                'className': '(2022-2023-1)-8029105-06289-3', 'hoursComposition': '理论:2,实践:4,其他:4', 
+                'weeklyHours': '2', 'totalHours': '8', 'credit': '0.0'}], 
+                'otherCourses': ['毕业实习李绍强(共17周)/1-17周/无']})
+
+
+{'name': '周梦泽', 'studentId': '201912340022', 'schoolYear': '2021', 'schoolTerm': '2',
+
+ 'normalCourse':
+ [
+  {'courseTitle': '华为大数据分析Ⅰ', 'teacher': '张帅', 'courseId': '12097091', 'courseSection': '3-5节', 'courseWeek': '1-7周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209709-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'},
+  {'courseTitle': '华为大数据分析Ⅰ', 'teacher': '吉立建', 'courseId': '12097091', 'courseSection': '3-5节', 'courseWeek': '1-18周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209709-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+  {'courseTitle': '华为大数据分析Ⅰ', 'teacher': '杨浩政', 'courseId': '12097091', 'courseSection': '3-5节', 'courseWeek': '8-18周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209709-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'},
+   {'courseTitle': '人工智能应用技术', 'teacher': '陈春娣', 'courseId': '12097161', 'courseSection': '7-9节', 'courseWeek': '1-18周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209716-06462-1', 'hoursComposition': '理论:48', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+   {'courseTitle': '华为大数据分析Ⅱ', 'teacher': '张帅', 'courseId': '12097101', 'courseSection': '1-2节', 'courseWeek': '1-3周(单),4-7周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209710-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+   {'courseTitle': '华为大数据分析Ⅱ', 'teacher': '吉立建', 'courseId': '12097101', 'courseSection': '1-2节', 'courseWeek': '1-3周(单),4-18周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209710-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+   {'courseTitle': '华为大数据分析Ⅱ', 'teacher': '吉立建,张帅', 'courseId': '12097101', 'courseSection': '1-2节', 'courseWeek': '2周', 'campus': '本部', 'courseRoom': '四教312', 'className': '(2021-2022-2)-1209710-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+   {'courseTitle': '华为大数据分析Ⅱ', 'teacher': '杨浩政', 'courseId': '12097101', 'courseSection': '1-3节', 'courseWeek': '8-18周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209710-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+   {'courseTitle': '华为大数据分析Ⅱ', 'teacher': '吉立建', 'courseId': '12097101', 'courseSection': '3-3节', 'courseWeek': '1-18周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209710-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+   {'courseTitle': '华为大数据分析Ⅱ', 'teacher': '张帅', 'courseId': '12097101', 'courseSection': '3-3节', 'courseWeek': '1-7周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209710-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'},
+    {'courseTitle': '马克思主义基本原理', 'teacher': '王晨光', 'courseId': '80291221', 'courseSection': '6-7节', 'courseWeek': '1-17周(单)', 'campus': '本部', 'courseRoom': '四教410', 'className': '(2021-2022-2)-8029122-80139-2', 'hoursComposition': '理论:48', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+    {'courseTitle': '程序设计基础课程综合实验', 'teacher': '姜进', 'courseId': '12095521', 'courseSection': '8-9节', 'courseWeek': '1-16周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209552-06439-3', 'hoursComposition': '理论:2', 'weeklyHours': '2', 'totalHours': '32', 'credit': '2.0'}, 
+    {'courseTitle': '数据采集技术课程实验', 'teacher': '王裕莞', 'courseId': '12095801', 'courseSection': '1-2节', 'courseWeek': '1-16周', 'campus': '本部', 'courseRoom': '四教211', 'className': '(2021-2022-2)-1209580-06471-1', 'hoursComposition': '理论:2', 'weeklyHours': '2', 'totalHours': '32', 'credit': '2.0'}, 
+    {'courseTitle': '华为大数据分析Ⅲ', 'teacher': '张帅', 'courseId': '12097111', 'courseSection': '3-5节', 'courseWeek': '1-7周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209711-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+    {'courseTitle': '华为大数据分析Ⅲ', 'teacher': ' 吉立建', 'courseId': '12097111', 'courseSection': '3-5节', 'courseWeek': '1-18周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209711-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+    {'courseTitle': '华为大数据分析Ⅲ', 'teacher': '杨浩政', 'courseId': '12097111', 'courseSection': '3-5节', 'courseWeek': '8-18周', 'campus': '本部', 'courseRoom': '四教213', 'className': '(2021-2022-2)-1209711-06412-1', 'hoursComposition': '理论:32', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+    {'courseTitle': '数据可视化技术', 'teacher': '姜进', 'courseId': '12094601', 'courseSection': '1-4节', 'courseWeek': '1-18周', 'campus': '本部', 'courseRoom': '四教214', 'className': '(2021-2022-2)-1209460-06439-1', 'hoursComposition': '理论:64', 'weeklyHours': '4', 'totalHours': '64', 'credit': '4.0'}, 
+    {'courseTitle': '形势与政策', 'teacher': '钱燕茹', 'courseId': '80291051', 'courseSection': '12-13节', 'courseWeek': '11周', 'campus': '本部', 'courseRoom': '四教408', 'className': '(2021-2022-2)-8029105-80032-6', 'hoursComposition': '理论:2,实践:4,其他:4', 'weeklyHours': '2', 'totalHours': '8', 'credit': '0.0'}, 
+    {'courseTitle': '马克思主义基本原理', 'teacher': ' 王晨光', 'courseId': '80291221', 'courseSection': '1-2节', 'courseWeek': '1-18周', 'campus': '本部', 'courseRoom': '四教309', 'className': '(2021-2022-2)-8029122-80139-2', 'hoursComposition': '理论:48', 'weeklyHours': '3', 'totalHours': '48', 'credit': '3.0'}, 
+    {'courseTitle': '大数据分析与应用', 'teacher': ' 王裕莞', 'courseId': '12095481', 'courseSection': '6-9节', 'courseWeek': '1-18周', 'campus': '本部', 'courseRoom': '四教214', 'className': '(2021-2022-2)-1209548-06471-1', 'hoursComposition': '理论:64', 'weeklyHours': '4', 'totalHours': '64', 'credit': '4.0'}
+    ], 
+    'otherCourses': ['中国陶瓷史王平(共15周)/3-17周/无']
+    }
+
+
+
+{'name': '周梦泽', 'studentId': '201912340022', \
+'brithday': '1998-08-02', 'idNumber': '440982199808024934', \
+'candidateNumber': '21440982001735', 'status': '在读', \
+'collegeName': '现代信息产业学院', \
+'majorName': '数据科学与大数据技术（华为创新班专升本）', \
+'className': '大数据华为1901', 'entryDate': '2021-09-01', \
+'domicile': '茂名化州', 'politicalStatus': '中国共产主义青年团团员',\
+ 'national': '汉族', 'education': '专升本'}

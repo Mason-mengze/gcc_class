@@ -1,0 +1,8 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+[13/Sep/2022 05:20:33] "GET / HTTP/1.1" 200 12
+[13/Sep/2022 05:20:34] "GET /favicon.ico HTTP/1.1" 200 27
+[13/Sep/2022 05:20:34] "GET / HTTP/1.1" 200 12
+[13/Sep/2022 05:20:35] "GET /favicon.ico HTTP/1.1" 200 27
+[13/Sep/2022 05:20:35] "GET / HTTP/1.1" 200 12
+[13/Sep/2022 05:20:36] "GET /favicon.ico HTTP/1.1" 200 27
