@@ -86,19 +86,19 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "gcc_class",
         "USER": "root",
-        # "PASSWORD": "hTSZth2T",
+        # "PASSWORD": "************",
         # 公网地址
-        # "HOST": "sh-cynosdbmysql-grp-6wo37u3c.sql.tencentcdb.com",
-        # "PORT": 20642
+        # "HOST": "**************",
+        # "PORT": ******
 
         # 内网地址 
-        # "HOST": "10.0.224.17",
-        # "PORT": 3306
+        # "HOST": "*********",
+        # "PORT": ****
 
         # AWS 免费数据库
-        "PASSWORD": "ZoxzGhScKkEgPD9sP0dL",
-        "HOST": "gcc-class.cn2vdy9ftd2y.us-east-1.rds.amazonaws.com",
-        "PORT": 3306
+        "PASSWORD": "********",
+        "HOST": "**********",
+        "PORT": ******
 
     }
 }
